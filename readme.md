@@ -16,7 +16,7 @@
 
 Our Synchrony Analytics Cloud Platform will be a comprehensive solution for tracking and analyzing user behavior across Synchrony's digital banking platforms. The system captures, processes, and visualizes user interactions to provide actionable insights into customer engagement, feature utilization, and user journeys.
 
-### Key´ Features
+### Key Features
 
 - Real-time data collection about the user's journey on the banking site
 - Secure data processing and storage
